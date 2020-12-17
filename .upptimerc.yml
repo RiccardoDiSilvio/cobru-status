@@ -4,25 +4,19 @@ repo: cobru-status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Cobru Prod
+    url: https://www.prod.cobru.co
+  - name: Cobru Dev
+    url: https://www.dev.cobru.co
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.cobru.co
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /cobru-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # /cobru-status
+  logoUrl: https://www.cobru.co/wp-content/uploads/h-logo-cobru.png
+  name: Cobru Status
+  introTitle: "Cobru Status te muestra la disponibilidad de los servidores de Cobru"
   introMessage:
   navbar:
     - title: Status
