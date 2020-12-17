@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.prod.cobru.co",
     "slug": "cobru-prod",
     "status": "down",
-    "uptime": "3.40%",
-    "uptimeDay": "3.40%",
-    "uptimeWeek": "3.40%",
-    "uptimeMonth": "3.40%",
-    "uptimeYear": "3.40%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-17": 0
+      "2020-12-17": 4
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/www.dev.cobru.co",
     "slug": "cobru-dev",
     "status": "down",
-    "uptime": "7.30%",
-    "uptimeDay": "7.30%",
-    "uptimeWeek": "7.30%",
-    "uptimeMonth": "7.30%",
-    "uptimeYear": "7.30%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-17": 0
+      "2020-12-17": 4
     }
   }
 ]
