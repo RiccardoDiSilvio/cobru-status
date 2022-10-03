@@ -2,7 +2,7 @@
   {
     "name": "Cobru Prod",
     "url": "https://www.prod.cobru.co",
-    "icon": "https://favicons.githubusercontent.com/www.prod.cobru.co",
+    "icon": "https://icons.duckduckgo.com/ip3/www.prod.cobru.co.ico",
     "slug": "cobru-prod",
     "status": "down",
     "uptime": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 143,
+      "2022-10-03": 115,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -379,14 +380,13 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   },
   {
     "name": "Cobru Dev",
     "url": "https://www.dev.cobru.co",
-    "icon": "https://favicons.githubusercontent.com/www.dev.cobru.co",
+    "icon": "https://icons.duckduckgo.com/ip3/www.dev.cobru.co.ico",
     "slug": "cobru-dev",
     "status": "down",
     "uptime": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 143,
+      "2022-10-03": 115,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -763,8 +764,7 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   }
 ]
